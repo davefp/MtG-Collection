@@ -15,7 +15,9 @@
 2 Kor Hookmaster [Zendikar] // mvid:178131
 1 Kor Skyfisher [Zendikar] // mvid:178145
 1 Frontier Guide [Zendikar] // mvid:180361
+1 Blood Seeker [Zendikar] // mvid:180362
 1 Harrow [Zendikar] // mvid:180408
+1 Guul Draz Vampire [Zendikar] // mvid:180498
 1 Savage Silhouette [Zendikar] // mvid:186316
 1 Hellkite Hatchling [Conflux] // mvid:189146
 1 Windborne Charge [Zendikar] // mvid:190418
@@ -41,7 +43,7 @@
 1 Memnite [Scars of Mirrodin] // mvid:194078
 1 Ezuri's Archers [Scars of Mirrodin] // mvid:194092
 3 Sky-Eel School [Scars of Mirrodin] // mvid:194103
-1 Grasp of Darkness [Scars of Mirrodin] // mvid:194105
+3 Grasp of Darkness [Scars of Mirrodin] // mvid:194105
 2 Melt Terrain [Scars of Mirrodin] // mvid:194106
 1 Neurok Invisimancer [Scars of Mirrodin] // mvid:194109
 1 Ghalma's Warden [Scars of Mirrodin] // mvid:194124
@@ -119,6 +121,7 @@
 1 Duress [Magic 2011] // mvid:205024
 1 Garruk's Companion [Magic 2011] // mvid:205025
 1 Chandra's Spitfire [Magic 2011] // mvid:205026
+1 Quag Sickness [Magic 2011] // mvid:205028
 2 Hunters' Feast [Magic 2011] // mvid:205037
 1 Berserkers of Blood Ridge [Magic 2011] // mvid:205053
 1 Garruk's Packleader [Magic 2011] // mvid:205060
@@ -150,6 +153,7 @@
 4 Lightning Bolt [Magic 2011] // mvid:205227
 3 Llanowar Elves [Magic 2011] // mvid:205228
 2 Prodigal Pyromancer [Magic 2011] // mvid:205231
+1 Viscera Seer [Magic 2011] // mvid:205232
 4 Terramorphic Expanse [Magic 2011] // mvid:205236
 1 Golem's Heart [Scars of Mirrodin] // mvid:205472
 1 Trigon of Thought [Scars of Mirrodin] // mvid:205476
@@ -167,12 +171,14 @@
 1 Glint Hawk [Scars of Mirrodin] // mvid:206358
 1 Golem Artisan [Scars of Mirrodin] // mvid:206360
 2 Nightwing Shade [Magic 2011] // mvid:207103
+1 Corrupt [Magic 2011] // mvid:207106
 1 Duskdale Wurm [Magic 2011] // mvid:207335
 1 Naturalize [Magic 2011] // mvid:207336
 1 Runeclaw Bear [Magic 2011] // mvid:207337
 1 Nature's Spiral [Magic 2011] // mvid:207338
 2 Scrapdiver Serpent [Scars of Mirrodin] // mvid:207863
 2 Darksteel Sentinel [Scars of Mirrodin] // mvid:207865
+1 Necrotic Ooze [Scars of Mirrodin] // mvid:207876
 1 Loxodon Wayfarer [Scars of Mirrodin] // mvid:207885
 2 Goblin Tunneler [Magic 2011] // mvid:207999
 2 Fling [Magic 2011] // mvid:208001
@@ -205,6 +211,7 @@
 1 Goldenglow Moth [Magic 2011] // mvid:208295
 2 Volition Reins [Scars of Mirrodin] // mvid:209001
 1 Fume Spitter [Scars of Mirrodin] // mvid:209005
+2 Bleak Coven Vampires [Scars of Mirrodin] // mvid:209006
 1 Prototype Portal [Scars of Mirrodin] // mvid:209009
 1 Dispense Justice [Scars of Mirrodin] // mvid:209015
 1 Vulshok Replica [Scars of Mirrodin] // mvid:209034
@@ -228,6 +235,7 @@
 1 Soul Parry [Scars of Mirrodin] // mvid:212705
 1 Trigon of Mending [Scars of Mirrodin] // mvid:212714
 1 Horrifying Revelation [Mirrodin Besieged] // mvid:213723
+1 Phyrexian Crusader [Mirrodin Besieged] // mvid:213724
 1 Mortarpod [Mirrodin Besieged] // mvid:213725
 5 Steel Sabotage [Mirrodin Besieged] // mvid:213726
 3 Viridian Emissary [Mirrodin Besieged] // mvid:213728
@@ -276,6 +284,7 @@
 5 Ogre Resister [Mirrodin Besieged] // mvid:213795
 3 Phyresis [Mirrodin Besieged] // mvid:213797
 1 Gore Vassal [Mirrodin Besieged] // mvid:213798
+1 Go for the Throat [Mirrodin Besieged] // mvid:213799
 1 Brass Squire [Mirrodin Besieged] // mvid:213800
 3 Phyrexian Rager [Mirrodin Besieged] // mvid:213804
 1 Copper Carapace [Mirrodin Besieged] // mvid:213805
@@ -300,6 +309,7 @@
 1 Bonehoard [Mirrodin Besieged] // mvid:214040
 3 Tangle Hulk [Mirrodin Besieged] // mvid:214041
 2 Shimmer Myr [Mirrodin Besieged] // mvid:214042
+1 Massacre Wurm [Mirrodin Besieged] // mvid:214044
 1 Psychosis Crawler [Mirrodin Besieged] // mvid:214047
 1 Galvanoth [Mirrodin Besieged] // mvid:214053
 1 Decimator Web [Mirrodin Besieged] // mvid:214055
@@ -309,6 +319,7 @@
 1 Spin Engine [Mirrodin Besieged] // mvid:214069
 1 Mitotic Manipulation [Mirrodin Besieged] // mvid:214071
 1 Glissa, the Traitor [Mirrodin Besieged] // mvid:214072
+1 Gruesome Encore [Mirrodin Besieged] // mvid:214073
 1 Caged Sun [New Phyrexia] // mvid:214345
 1 Glistening Oil [New Phyrexia] // mvid:214346
 1 Psychic Surgery [New Phyrexia] // mvid:214347
@@ -317,7 +328,7 @@
 1 Sickleslicer [New Phyrexia] // mvid:214357
 1 Exclusion Ritual [New Phyrexia] // mvid:214364
 1 Phyrexian Metamorph [New Phyrexia] // mvid:214375
-2 Geth's Verdict [New Phyrexia] // mvid:214376
+4 Geth's Verdict [New Phyrexia] // mvid:214376
 2 Phyrexian Hulk [New Phyrexia] // mvid:214379
 1 Volt Charge [New Phyrexia] // mvid:214381
 1 Blighted Agent [New Phyrexia] // mvid:214383
@@ -357,6 +368,7 @@
 4 Numbing Dose [New Phyrexia] // mvid:218040
 4 Porcelain Legionnaire [New Phyrexia] // mvid:218043
 2 Triumph of the Hordes [New Phyrexia] // mvid:218044
+2 Praetor's Grasp [New Phyrexia] // mvid:218050
 2 Lost Leonin [New Phyrexia] // mvid:218053
 1 Isolation Cell [New Phyrexia] // mvid:218057
 1 Caress of Phyrexia [New Phyrexia] // mvid:218061
@@ -376,15 +388,19 @@
 3 Pride Guardian [Magic 2012] // mvid:220073
 1 Stingerfling Spider [Magic 2012] // mvid:220075
 1 Gladecover Scout [Magic 2012] // mvid:220082
+1 Sphinx of Uthuun [Magic 2012] // mvid:220090
 1 Garruk, Primal Hunter [Magic 2012] // mvid:220100
 3 Merfolk Mesmerist [Magic 2012] // mvid:220106
 2 Crumbling Colossus [Magic 2012] // mvid:220113
-1 Tormented Soul [Magic 2012] // mvid:220122
+3 Tormented Soul [Magic 2012] // mvid:220122
 2 Bloodrage Vampire [Magic 2012] // mvid:220125
+1 Vampire Outcasts [Magic 2012] // mvid:220127
 1 Day of Judgment [Magic 2012] // mvid:220139
-3 Aven Fleetwing [Magic 2012] // mvid:220145
+7 Aven Fleetwing [Magic 2012] // mvid:220145
+1 Skywinder Drake [Magic 2012] // mvid:220153
 1 Stonehorn Dignitary [Magic 2012] // mvid:220160
 2 Manalith [Magic 2012] // mvid:220162
+1 Vengeful Pharaoh [Magic 2012] // mvid:220170
 2 Merfolk Looter [Magic 2012] // mvid:220179
 4 Lifelink [Magic 2012] // mvid:220182
 2 Wall of Torches [Magic 2012] // mvid:220189
@@ -394,7 +410,7 @@
 5 Amphin Cutthroat [Magic 2012] // mvid:220218
 2 Divine Favor [Magic 2012] // mvid:220219
 1 Carnage Wurm [Magic 2012] // mvid:220220
-2 Chasm Drake [Magic 2012] // mvid:220225
+3 Chasm Drake [Magic 2012] // mvid:220225
 1 Visions of Beyond [Magic 2012] // mvid:220226
 1 Blood Ogre [Magic 2012] // mvid:220227
 1 Lightning Elemental [Magic 2012] // mvid:220240
@@ -403,23 +419,24 @@
 1 Jace's Archivist [Magic 2012] // mvid:220244
 1 Flashfreeze [Magic 2012] // mvid:220249
 2 Duskhunter Bat [Magic 2012] // mvid:220259
-1 Swiftfoot Boots [Magic 2012] // mvid:220261
+2 Swiftfoot Boots [Magic 2012] // mvid:220261
 3 Alabaster Mage [Magic 2012] // mvid:220264
+1 Turn to Frog [Magic 2012] // mvid:220265
 1 Azure Mage [Magic 2012] // mvid:220268
-1 Circle of Flame [Magic 2012] // mvid:220273
+2 Circle of Flame [Magic 2012] // mvid:220273
 1 Stormblood Berserker [Magic 2012] // mvid:220277
 1 Jade Mage [Magic 2012] // mvid:220279
 1 Griffin Rider [Magic 2012] // mvid:220282
-2 Frost Breath [Magic 2012] // mvid:220284
+3 Frost Breath [Magic 2012] // mvid:220284
 2 Hunter's Insight [Magic 2012] // mvid:220291
 3 Dark Favor [Magic 2012] // mvid:220293
-2 Gorehorn Minotaurs [Magic 2012] // mvid:220294
+3 Gorehorn Minotaurs [Magic 2012] // mvid:220294
 2 Stave Off [Magic 2012] // mvid:220295
 1 Greatsword [Magic 2012] // mvid:220296
 2 Crown of Empires [Magic 2012] // mvid:220297
-1 Unsummon [Magic 2012] // mvid:220301
+3 Unsummon [Magic 2012] // mvid:220301
 2 Buried Ruin [Magic 2012] // mvid:220302
-1 Bloodlord of Vaasgoth [Magic 2012] // mvid:220306
+2 Bloodlord of Vaasgoth [Magic 2012] // mvid:220306
 1 Myr Galvanizer [Scars of Mirrodin] // mvid:220364
 3 Goblin Grenade [Magic 2012] // mvid:220435
 2 Goblin Piker [Magic 2012] // mvid:221199
@@ -432,10 +449,11 @@
 2 Wurm's Tooth [Magic 2012] // mvid:221524
 1 Gravedigger [Magic 2012] // mvid:221526
 1 Beast Within [New Phyrexia] // mvid:221533
+1 Fireball [Magic 2012] // mvid:221550
 2 Master's Call [Mirrodin Besieged] // mvid:221554
 2 Spread the Sickness [Mirrodin Besieged] // mvid:221557
 1 Pierce Strider [Mirrodin Besieged] // mvid:221561
-3 Lava Axe [Magic 2012] // mvid:221891
+5 Lava Axe [Magic 2012] // mvid:221891
 4 Llanowar Elves [Magic 2012] // mvid:221892
 3 Naturalize [Magic 2012] // mvid:221894
 1 Birds of Paradise [Magic 2012] // mvid:221896
@@ -446,16 +464,16 @@
 2 Leonin Relic-Warder [Mirrodin Besieged] // mvid:222860
 1 Vedalken Anatomist [Mirrodin Besieged] // mvid:222861
 4 Tangle Mantis [Mirrodin Besieged] // mvid:222862
-1 Morbid Plunder [Mirrodin Besieged] // mvid:222863
+3 Morbid Plunder [Mirrodin Besieged] // mvid:222863
 2 Zombie Goliath [Magic 2012] // mvid:226558
-1 Doom Blade [Magic 2012] // mvid:226560
+2 Doom Blade [Magic 2012] // mvid:226560
 2 Taste of Blood [Magic 2012] // mvid:226561
 1 Devouring Swarm [Magic 2012] // mvid:226563
 4 Bonebreaker Giant [Magic 2012] // mvid:226582
-2 Chandra's Outrage [Magic 2012] // mvid:226585
+3 Chandra's Outrage [Magic 2012] // mvid:226585
 1 Firebreathing [Magic 2012] // mvid:226588
-4 Act of Treason [Magic 2012] // mvid:226589
-2 Combust [Magic 2012] // mvid:226591
+5 Act of Treason [Magic 2012] // mvid:226589
+4 Combust [Magic 2012] // mvid:226591
 2 Garruk's Companion [Magic 2012] // mvid:226896
 3 Fog [Magic 2012] // mvid:226900
 2 Bountiful Harvest [Magic 2012] // mvid:226901
@@ -463,7 +481,8 @@
 2 AEther Adept [Magic 2012] // mvid:227222
 1 Coral Merfolk [Magic 2012] // mvid:227223
 2 Cancel [Magic 2012] // mvid:227225
-4 Jace's Erasure [Magic 2012] // mvid:227227
+5 Jace's Erasure [Magic 2012] // mvid:227227
+1 Worldslayer [Magic 2012] // mvid:227302
 2 Hovermyr [New Phyrexia] // mvid:227513
 4 Ruthless Invasion [New Phyrexia] // mvid:227528
 2 Tezzeret's Gambit [New Phyrexia] // mvid:227547
@@ -471,18 +490,19 @@
 1 Benalish Veteran [Magic 2012] // mvid:228117
 3 Master Thief [Magic 2012] // mvid:228119
 1 Gideon's Lawkeeper [Magic 2012] // mvid:228122
-1 Goblin Fireslinger [Magic 2012] // mvid:228959
+2 Goblin Fireslinger [Magic 2012] // mvid:228959
 1 Goblin Bangchuckers [Magic 2012] // mvid:229952
 4 Slash Panther [New Phyrexia] // mvid:230065
 1 Marrow Shards [New Phyrexia] // mvid:230072
 1 Corrosive Gale [New Phyrexia] // mvid:230075
 5 War Report [New Phyrexia] // mvid:230078
 5 Pith Driller [New Phyrexia] // mvid:230079
+1 Dismember [New Phyrexia] // mvid:230082
 2 Forced Worship [New Phyrexia] // mvid:230083
 1 Harbor Serpent [Magic 2012] // mvid:230756
 3 Negate [Magic 2012] // mvid:230757
-2 Slaughter Cry [Magic 2012] // mvid:230762
-3 Manic Vandal [Magic 2012] // mvid:230764
+3 Slaughter Cry [Magic 2012] // mvid:230762
+4 Manic Vandal [Magic 2012] // mvid:230764
 3 Wing Splicer [New Phyrexia] // mvid:233037
 3 Sensor Splicer [New Phyrexia] // mvid:233038
 3 Maul Splicer [New Phyrexia] // mvid:233040
@@ -491,9 +511,11 @@
 2 Soul Conduit [New Phyrexia] // mvid:233048
 4 Glistener Elf [New Phyrexia] // mvid:233052
 4 Spire Monitor [New Phyrexia] // mvid:233053
+1 Postmortem Lunge [New Phyrexia] // mvid:233054
 4 Gitaxian Probe [New Phyrexia] // mvid:233056
 3 Immolating Souleater [New Phyrexia] // mvid:233058
 1 Shattered Angel [New Phyrexia] // mvid:233059
+1 Enslave [New Phyrexia] // mvid:233060
 2 Greenhilt Trainee [New Phyrexia] // mvid:233063
 3 Death-Hood Cobra [New Phyrexia] // mvid:233065
 3 Insatiable Souleater [New Phyrexia] // mvid:233066
@@ -516,13 +538,16 @@
 1 Reverberate [Magic 2012] // mvid:233722
 1 Levitation [Magic 2012] // mvid:233728
 1 Cemetery Reaper [Magic 2012] // mvid:234070
-3 Incinerate [Magic 2012] // mvid:234075
+4 Incinerate [Magic 2012] // mvid:234075
+3 Child of Night [Magic 2012] // mvid:234560
 3 Mind Rot [Magic 2012] // mvid:234561
 1 Oblivion Ring [Magic 2012] // mvid:234567
 1 Tectonic Rift [Magic 2012] // mvid:234568
 2 Belltower Sphinx [Magic 2012] // mvid:236457
-1 Goblin War Paint [Magic 2012] // mvid:236461
-1 Distress [Magic 2012] // mvid:236908
+1 Mind Unbound [Magic 2012] // mvid:236459
+2 Goblin War Paint [Magic 2012] // mvid:236461
+1 Solemn Simulacrum [Magic 2012] // mvid:236907
+2 Distress [Magic 2012] // mvid:236908
 1 Elvish Archdruid [Magic 2012] // mvid:237007
 1 Smallpox [Magic 2012] // mvid:237010
 1 Flight [Magic 2012] // mvid:237366
@@ -534,23 +559,25 @@
 1 Overrun [Magic 2012] // mvid:238574
 3 Auramancer [Magic 2012] // mvid:240308
 1 Elite Vanguard [Magic 2012] // mvid:240315
-3 Mana Leak [Magic 2012] // mvid:241831
+4 Mana Leak [Magic 2012] // mvid:241831
 2 Fling [Magic 2012] // mvid:241858
 1 Sacred Wolf [Magic 2012] // mvid:241859
 2 Zombie Infestation [Magic 2012] // mvid:241860
 3 Mighty Leap [Magic 2012] // mvid:241989
 2 Autumn's Veil [Magic 2012] // mvid:241990
 1 Sorin's Thirst [Magic 2012] // mvid:241994
-2 Warpath Ghoul [Magic 2012] // mvid:241995
-2 Disentomb [Magic 2012] // mvid:244245
+4 Warpath Ghoul [Magic 2012] // mvid:241995
+3 Goblin Arsonist [Magic 2012] // mvid:242485
+5 Disentomb [Magic 2012] // mvid:244245
 2 Consume Spirit [Magic 2012] // mvid:244249
 1 Kite Shield [Magic 2012] // mvid:244250
 1 Blood Seeker [Magic 2012] // mvid:244252
-1 Ponder [Magic 2012] // mvid:244313
-1 Volcanic Dragon [Magic 2012] // mvid:244719
+2 Ponder [Magic 2012] // mvid:244313
+2 Volcanic Dragon [Magic 2012] // mvid:244719
 2 Brindle Boar [Magic 2012] // mvid:244824
 2 Stampeding Rhino [Magic 2012] // mvid:244825
 2 Vastwood Gorger [Magic 2012] // mvid:244827
+1 Shock [Magic 2012] // mvid:245184
 3 Goblin Tunneler [Magic 2012] // mvid:245185
 1 Time Reversal [Magic 2012] // mvid:245187
-1 Ice Cage [Magic 2012] // mvid:245283
+2 Ice Cage [Magic 2012] // mvid:245283
